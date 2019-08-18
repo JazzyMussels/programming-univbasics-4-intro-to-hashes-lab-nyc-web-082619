@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash = { best_rapper: Vanilla Ice, worst_rapper: 
+  hash = { best_rapper: Vanilla_Ice, worst_rapper: Jason_Aldean}
 end
 
 def pioneer
