@@ -3,11 +3,12 @@ def new_hash
 end
 
 def my_hash
-  hash = { best_rapper: Vanilla_Ice, worst_rapper: Jason_Aldean}
+  hash = { best_rapper: 'Vanilla_Ice', worst_rapper: 'Jason_Aldean'}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  hash = {name: 'Grace Hopper'}
+  hash 
 end
 
 def id_generator
